@@ -11,7 +11,7 @@
 
 ## Prepare Required Data
 
-Download our formation-informed DG dataset ([URL will be released later]()) and put it into `./data/morpheme/`. 
+Download our formation-informed DG dataset ([URL will be released later]()) and put it into `./data/morpheme/`
 Download [gigaword Chinese word vectors](https://fasttext.cc/docs/en/crawl-vectors.html) and put it into `./data/morpheme/`
 
 ## Run Experiments
