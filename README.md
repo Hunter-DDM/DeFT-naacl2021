@@ -46,4 +46,4 @@ We refer to [ishiwatari-naacl2019](https://github.com/shonosuke/ishiwatari-naacl
 ## Contact
 
 Damai Dai: daidamai@pku.edu.cn
-Hua Zheng: huaz@pku.edu.cn
+Hua Zheng: zhenghua@pku.edu.cn
