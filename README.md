@@ -1,6 +1,6 @@
 # DeFT-NAACL2021
 
-* Paper: Decompose, Fuse and Generate: A Formation-Informed Method for Chinese Definition Generation ([URL will be released later]())
+* Paper: Decompose, Fuse and Generate: A Formation-Informed Method for Chinese Definition Generation ([URL](https://www.aclweb.org/anthology/2021.naacl-main.437.pdf))
 
 ## Requirements
 * Pytorch (1.6.0)
