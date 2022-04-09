@@ -22,10 +22,6 @@ bash run_morphemes.sh
 ```
 You can change the options defined in `main.py` to train models under different configurations. 
 
-## Trained checkpoints
-
-We will release our trained checkpoints ([URL will be released later]()) later to help reproduce our reported results. 
-
 ## Citation
 
 If you use this code for your research, please kindly cite our NAACL-2021 paper:
